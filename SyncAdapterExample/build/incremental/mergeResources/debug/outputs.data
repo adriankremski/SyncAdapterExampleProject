@@ -1,0 +1,16 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1376641429000 363 0baaab29d2d0fdbfa6718d1602ab1df6ebe26262 /Users/adriankremski/projects/SlidingMenu/SyncAdapterExampleProject/SyncAdapterExample/build/res/all/debug/values-v14/values.xml
+1376641429000 6120 ced3785afb467e5670c9c7db0d3a345d15454ea5 /Users/adriankremski/projects/SlidingMenu/SyncAdapterExampleProject/SyncAdapterExample/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1376641429000 349 ad9a313a42f2c25247ebf430da0b762163366824 /Users/adriankremski/projects/SlidingMenu/SyncAdapterExampleProject/SyncAdapterExample/build/res/all/debug/values-v11/values.xml
+1376641429000 280 e22e4dd096c04dcece467961058c682f10614aa8 /Users/adriankremski/projects/SlidingMenu/SyncAdapterExampleProject/SyncAdapterExample/build/res/all/debug/values-sw720dp-land/values.xml
+1376899852000 792 154c125f22df1954c83d5cb682b15524c99b8964 /Users/adriankremski/projects/SlidingMenu/SyncAdapterExampleProject/SyncAdapterExample/build/res/all/debug/layout/game_row.xml
+1376861540000 468 c5a9c5fabcb8c058abe487a58e280d35b7d85771 /Users/adriankremski/projects/SlidingMenu/SyncAdapterExampleProject/SyncAdapterExample/build/res/all/debug/xml/authenticator.xml
+1376901387000 1412 53c8788b16db073d0bdf5b390f72b8af3b651ae6 /Users/adriankremski/projects/SlidingMenu/SyncAdapterExampleProject/SyncAdapterExample/build/res/all/debug/layout/activity_main.xml
+1376641429000 3156 be9d6d2174e9cbaabca59e8090160434dbd60002 /Users/adriankremski/projects/SlidingMenu/SyncAdapterExampleProject/SyncAdapterExample/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1376641429000 18087 8d35b7c0e81c9caf7ee547905d69c9542a08b87f /Users/adriankremski/projects/SlidingMenu/SyncAdapterExampleProject/SyncAdapterExample/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1376641429000 377 f445c30f07ac106cdc5c0e2a0ad40753e84d35a0 /Users/adriankremski/projects/SlidingMenu/SyncAdapterExampleProject/SyncAdapterExample/build/res/all/debug/menu/main.xml
+1376641429000 9487 7e58a59b9c3cf7a7a1df12376c329591dd31f5e4 /Users/adriankremski/projects/SlidingMenu/SyncAdapterExampleProject/SyncAdapterExample/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1376906682000 540 ccadd9ffe7f9f09af1f41ab83ec1faa867ab8a08 /Users/adriankremski/projects/SlidingMenu/SyncAdapterExampleProject/SyncAdapterExample/build/res/all/debug/xml/syncadapter.xml
+1376906682000 1310 5600ca3d627e8e2057210059e4d63d434d315a91 /Users/adriankremski/projects/SlidingMenu/SyncAdapterExampleProject/SyncAdapterExample/build/res/all/debug/values/values.xml

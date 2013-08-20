@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sync-adapter
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:contentAuthority="@string/games_authority"
+        android:accountType="com.example.syncadapterexample"
+        android:userVisible="true"
+        android:supportsUploading="false"
+        android:allowParallelSyncs="false"
+        android:isAlwaysSyncable="true"/><!-- From: file:/Users/adriankremski/projects/SlidingMenu/SyncAdapterExampleProject/SyncAdapterExample/src/main/res/xml/syncadapter.xml -->
