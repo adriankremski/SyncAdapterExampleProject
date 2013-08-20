@@ -1,4 +1,4 @@
-package com.example.syncadapter.android;
+package com.example.syncadapter;
 
 public class Game {
     private final String title;
