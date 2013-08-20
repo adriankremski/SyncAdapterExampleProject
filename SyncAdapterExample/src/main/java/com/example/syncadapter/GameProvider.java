@@ -1,4 +1,4 @@
-package com.example.syncadapterexample;
+package com.example.syncadapter;
 
 import android.content.ContentProvider;
 import android.content.ContentUris;
@@ -8,15 +8,13 @@ import android.database.sqlite.SQLiteQueryBuilder;
 import android.net.Uri;
 import android.provider.BaseColumns;
 
-import java.sql.SQLException;
-
 /**
  * Created by adriankremski on 8/16/13.
  */
 public class GameProvider extends ContentProvider{
 
     private GameDatabaseHelper gameDatabaseHelper = null;
-    public static final String AUTHORITY = "com.example.syncadapterexample.gamesprovider";
+    public static final String AUTHORITY = "com.example.syncadapter.gamesprovider";
 
     public static final class Games implements BaseColumns {
         public static final String ID = GameDatabaseHelper.ID_COLUMN_NAME;

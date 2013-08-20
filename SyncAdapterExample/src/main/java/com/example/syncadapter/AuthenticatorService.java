@@ -1,4 +1,4 @@
-package com.example.syncadapterexample;
+package com.example.syncadapter;
 
 /**
  * Created by adriankremski on 8/16/13.
@@ -6,7 +6,6 @@ package com.example.syncadapterexample;
 
 import android.app.Service;
 import android.content.Intent;
-import android.hardware.SensorManager;
 import android.os.IBinder;
 
 public class AuthenticatorService extends Service {

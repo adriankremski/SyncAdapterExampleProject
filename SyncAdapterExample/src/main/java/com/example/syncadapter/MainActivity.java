@@ -1,4 +1,4 @@
-package com.example.syncadapterexample;
+package com.example.syncadapter;
 
 import android.accounts.Account;
 import android.accounts.AccountManager;
@@ -12,7 +12,7 @@ import android.widget.EditText;
 
 public class MainActivity extends FragmentActivity {
 
-    public static final String ACCOUNT_TYPE = "com.example.syncadapterexample";
+    public static final String ACCOUNT_TYPE = "com.example.syncadapter";
     public static final String ACCOUNT_NAME = "dummyaccount";
     private Account defaultAccount;
 

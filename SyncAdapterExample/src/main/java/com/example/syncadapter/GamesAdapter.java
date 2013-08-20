@@ -1,4 +1,4 @@
-package com.example.syncadapterexample;
+package com.example.syncadapter;
 
 import android.content.Context;
 import android.database.Cursor;

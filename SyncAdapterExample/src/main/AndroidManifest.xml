@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.syncadapterexample"
+    package="com.example.syncadapter"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -31,7 +31,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.syncadapter.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -41,13 +41,13 @@
         </activity>
 
         <provider
-                android:name=".GameProvider"
-                android:authorities="com.example.syncadapterexample.gamesprovider"
+                android:name="com.example.syncadapter.GameProvider"
+                android:authorities="com.example.syncadapter.gamesprovider"
                 android:exported="false"
                 android:syncable="true"/>
 
         <service
-                android:name=".AuthenticatorService"
+                android:name="com.example.syncadapter.AuthenticatorService"
                 android:enabled="true"
                 android:exported="true">
             <intent-filter>
@@ -59,7 +59,7 @@
         </service>
 
         <service
-                android:name=".ExampleSyncService"
+                android:name="com.example.syncadapter.ExampleSyncService"
                 android:enabled="true"
                 android:exported="true">
             <intent-filter>

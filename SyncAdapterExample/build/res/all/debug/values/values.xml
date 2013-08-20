@@ -7,7 +7,7 @@
     <!-- From: file:/Users/adriankremski/projects/SlidingMenu/SyncAdapterExampleProject/SyncAdapterExample/src/main/res/values/strings.xml -->
     <string name="action_settings">Settings</string>
     <string name="app_name">SyncAdapterExample</string>
-    <string name="games_authority">com.example.syncadapterexample.gamesprovider</string>
+    <string name="games_authority">com.example.syncadapter.gamesprovider</string>
     <string name="hello_world">Hello world!</string>
     <!-- From: file:/Users/adriankremski/projects/SlidingMenu/SyncAdapterExampleProject/SyncAdapterExample/src/main/res/values/styles.xml -->
     <style name="AppBaseTheme" parent="android:Theme.Light">

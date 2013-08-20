@@ -33,7 +33,7 @@
     <fragment
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:name="com.example.syncadapterexample.GamesListFragment"
+            android:name="com.example.syncadapter.GamesListFragment"
             android:id="@+id/games" />
 
 </LinearLayout>

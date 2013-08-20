@@ -114,7 +114,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/ExampleSyncAdapter.java" line="85" class="com.example.syncadapterexample.ExampleSyncAdapter" package="com.example.syncadapterexample">
+      <breakpoint url="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapter/ExampleSyncAdapter.java" line="67" class="com.example.syncadapterexample.ExampleSyncAdapter" package="com.example.syncadapterexample">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -129,7 +129,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/ExampleSyncAdapter.java" line="90" class="com.example.syncadapterexample.ExampleSyncAdapter$2" package="com.example.syncadapterexample">
+      <breakpoint url="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapter/ExampleSyncAdapter.java" line="72" class="com.example.syncadapterexample.ExampleSyncAdapter$2" package="com.example.syncadapterexample">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -144,7 +144,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/AuthenticatorService.java" line="22" class="com.example.syncadapterexample.AuthenticatorService" package="com.example.syncadapterexample">
+      <breakpoint url="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapter/AuthenticatorService.java" line="22" class="com.example.syncadapterexample.AuthenticatorService" package="com.example.syncadapterexample">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -159,7 +159,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/AuthenticatorService.java" line="17" class="com.example.syncadapterexample.AuthenticatorService" package="com.example.syncadapterexample">
+      <breakpoint url="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapter/AuthenticatorService.java" line="16" class="com.example.syncadapterexample.AuthenticatorService" package="com.example.syncadapterexample">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -174,7 +174,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/ExampleSyncAdapter.java" line="89" class="com.example.syncadapterexample.ExampleSyncAdapter$2" package="com.example.syncadapterexample">
+      <breakpoint url="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapter/ExampleSyncAdapter.java" line="71" class="com.example.syncadapterexample.ExampleSyncAdapter$2" package="com.example.syncadapterexample">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -189,7 +189,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/ExampleSyncAdapter.java" line="102" class="com.example.syncadapterexample.ExampleSyncAdapter$3" package="com.example.syncadapterexample">
+      <breakpoint url="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapter/ExampleSyncAdapter.java" line="84" class="com.example.syncadapterexample.ExampleSyncAdapter$3" package="com.example.syncadapterexample">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -215,47 +215,38 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Authenticator.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/Authenticator.java">
+        <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapter/Authenticator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="43" selection-start="769" selection-end="769" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="780">
+            <state line="24" column="43" selection-start="691" selection-end="691" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="780">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="AuthenticatorService.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/AuthenticatorService.java">
+        <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapter/AuthenticatorService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="411" selection-end="411" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+            <state line="18" column="0" selection-start="365" selection-end="365" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/MainActivity.java">
+        <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapter/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="0" selection-start="851" selection-end="851" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="1170">
+            <state line="54" column="35" selection-start="2168" selection-end="2168" vertical-scroll-proportion="0.0" vertical-offset="615" max-vertical-offset="1170">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GameProvider.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/GameProvider.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="72" column="0" selection-start="2562" selection-end="2562" vertical-scroll-proportion="0.0" vertical-offset="531" max-vertical-offset="1215">
-              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="GameDatabaseHelper.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/GameDatabaseHelper.java">
+        <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapter/GameDatabaseHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="44" selection-start="994" selection-end="994" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+            <state line="15" column="0" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -263,13 +254,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExampleSyncAdapter.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/ExampleSyncAdapter.java">
+      <file leaf-file-name="authenticator.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/res/xml/authenticator.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="13" selection-start="2033" selection-end="2033" vertical-scroll-proportion="0.5011136" vertical-offset="645" max-vertical-offset="2265">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="3" column="52" selection-start="181" selection-end="181" vertical-scroll-proportion="0.09615385" vertical-offset="0" max-vertical-offset="468">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -277,27 +266,34 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="9" selection-start="1150" selection-end="1150" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="1185">
+            <state line="53" column="78" selection-start="2055" selection-end="2055" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="1185">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GamesListFragment.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/GamesListFragment.java">
+      <file leaf-file-name="syncadapter.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/res/xml/syncadapter.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="38" selection-start="1485" selection-end="1485" vertical-scroll-proportion="0.0" vertical-offset="271" max-vertical-offset="780">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="4" column="52" selection-start="231" selection-end="231" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExampleSyncAdapter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapter/ExampleSyncAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="0" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="1995">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="GamesAdapter.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/GamesAdapter.java">
+        <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapter/GamesAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="13" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+            <state line="6" column="13" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -306,9 +302,9 @@
         </entry>
       </file>
       <file leaf-file-name="ExampleSyncService.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/ExampleSyncService.java">
+        <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapter/ExampleSyncService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="11" selection-start="1443" selection-end="1443" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="840">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -366,30 +362,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/SyncAdapterExample/src/main/res/layout/activity_main.xml" />
-        <option value="$PROJECT_DIR$/SyncAdapterExample/src/main/res/xml/authenticator.xml" />
-        <option value="$PROJECT_DIR$/SyncAdapterExample/build/source/r/debug/com/example/syncadapterexample/MyLoginActivity.java" />
-        <option value="$PROJECT_DIR$/SyncAdapterExample/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/SyncAdapterExample/src/main/res/xml/syncadapter.xml" />
-        <option value="$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/MyLoginActivity.java" />
-        <option value="$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/Authenticator.java" />
         <option value="$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/ExampleIntentService.java" />
         <option value="$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/ExampleSyncService.java" />
         <option value="$PROJECT_DIR$/SyncAdapterExample/src/main/java/volley/NetworkResponse.java" />
         <option value="$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/android/Game.java" />
         <option value="$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/android/volley/toolbox/PoolingByteArrayOutputStream.java" />
-        <option value="$PROJECT_DIR$/SyncAdapterExample/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/GameProvider.java" />
         <option value="$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/MainActivity.java" />
         <option value="$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/ExampleSyncAdapter.java" />
+        <option value="$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/example/ExampleSyncAdapter.java" />
+        <option value="$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapter/ExampleSyncAdapter.java" />
+        <option value="$PROJECT_DIR$/SyncAdapterExample/src/main/res/xml/authenticator.xml" />
+        <option value="$PROJECT_DIR$/SyncAdapterExample/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapter/MainActivity.java" />
+        <option value="$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapter/GameProvider.java" />
+        <option value="$PROJECT_DIR$/SyncAdapterExample/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/SyncAdapterExample/src/main/res/xml/syncadapter.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="198" />
-    <option name="y" value="617" />
-    <option name="width" value="1419" />
-    <option name="height" value="807" />
+    <option name="x" value="8" />
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="826" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -618,7 +614,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="syncadapterexample" />
+              <option name="myItemId" value="syncadapter" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -701,10 +697,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="debug" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="syncadapterexample" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -914,7 +906,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="198" y="617" width="1419" height="807" extended-state="0" />
+    <frame x="8" y="22" width="1440" height="826" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -929,15 +921,15 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32686982" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3255814" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2473573" sideWeight="0.6699438" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3300562" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24375" sideWeight="0.6785226" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32147744" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -957,20 +949,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Desktop/dev-tools/sdk/sources/android-18/android/os/Handler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="0" selection-start="4112" selection-end="4112" vertical-scroll-proportion="0.0" vertical-offset="1124" max-vertical-offset="11670">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/dev-tools/sdk/sources/android-18/android/os/Looper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="250" column="0" selection-start="9097" selection-end="9097" vertical-scroll-proportion="0.0" vertical-offset="3389" max-vertical-offset="4590">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/dev-tools/sdk/sources/android-18/com/android/server/content/SyncManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="593" column="38" selection-start="25226" selection-end="25226" vertical-scroll-proportion="0.0" vertical-offset="7020" max-vertical-offset="40590">
@@ -981,7 +959,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/android/Game.java">
+    <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapter/android/Game.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="20" selection-start="339" selection-end="339" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
           <folding />
@@ -995,85 +973,104 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="58" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapter/GamesListFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapter/GameProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="67" selection-start="518" selection-end="518" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="1215">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapter/GamesAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapter/ExampleSyncService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapter/GameDatabaseHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapter/ExampleSyncAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="1995">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapter/Authenticator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="43" selection-start="691" selection-end="691" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="780">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapter/AuthenticatorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="365" selection-end="365" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapter/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="35" selection-start="2168" selection-end="2168" vertical-scroll-proportion="0.0" vertical-offset="615" max-vertical-offset="1170">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="9" selection-start="1150" selection-end="1150" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="1185">
+        <state line="53" column="78" selection-start="2055" selection-end="2055" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="1185">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/GamesListFragment.java">
+    <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/res/xml/syncadapter.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="38" selection-start="1485" selection-end="1485" vertical-scroll-proportion="0.0" vertical-offset="271" max-vertical-offset="780">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/GamesAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/AuthenticatorService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="411" selection-end="411" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+        <state line="4" column="52" selection-start="231" selection-end="231" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/Authenticator.java">
+    <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/res/xml/authenticator.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="43" selection-start="769" selection-end="769" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="780">
+        <state line="3" column="52" selection-start="181" selection-end="181" vertical-scroll-proportion="0.09615385" vertical-offset="0" max-vertical-offset="468">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/GameDatabaseHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="44" selection-start="994" selection-end="994" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/GameProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="0" selection-start="2562" selection-end="2562" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="1215">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="851" selection-end="851" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="1170">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/ExampleSyncService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="11" selection-start="1443" selection-end="1443" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="840">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SyncAdapterExample/src/main/java/com/example/syncadapterexample/ExampleSyncAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="13" selection-start="2033" selection-end="2033" vertical-scroll-proportion="0.5011136" vertical-offset="645" max-vertical-offset="2265">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

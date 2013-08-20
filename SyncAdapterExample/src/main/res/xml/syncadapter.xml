@@ -2,7 +2,7 @@
 <sync-adapter
         xmlns:android="http://schemas.android.com/apk/res/android"
         android:contentAuthority="@string/games_authority"
-        android:accountType="com.example.syncadapterexample"
+        android:accountType="com.example.syncadapter"
         android:userVisible="true"
         android:supportsUploading="false"
         android:allowParallelSyncs="false"

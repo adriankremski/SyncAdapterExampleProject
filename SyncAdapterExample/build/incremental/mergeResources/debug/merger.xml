@@ -29,6 +29,11 @@
                 qualifiers=""
                 type="layout" />
             <file
+                name="game_row"
+                path="/Users/adriankremski/projects/SlidingMenu/SyncAdapterExampleProject/SyncAdapterExample/src/main/res/layout/game_row.xml"
+                qualifiers=""
+                type="layout" />
+            <file
                 name="main"
                 path="/Users/adriankremski/projects/SlidingMenu/SyncAdapterExampleProject/SyncAdapterExample/src/main/res/menu/main.xml"
                 qualifiers=""
@@ -46,7 +51,7 @@
                 qualifiers="" >
                 <string name="action_settings" >Settings
                 </string>
-                <string name="games_authority" >com.example.syncadapterexample.gamesprovider
+                <string name="games_authority" >com.example.syncadapter.gamesprovider
                 </string>
                 <string name="app_name" >SyncAdapterExample
                 </string>
@@ -104,20 +109,15 @@
                 </style>
             </file>
             <file
-                name="syncadapter"
-                path="/Users/adriankremski/projects/SlidingMenu/SyncAdapterExampleProject/SyncAdapterExample/src/main/res/xml/syncadapter.xml"
-                qualifiers=""
-                type="xml" />
-            <file
                 name="authenticator"
                 path="/Users/adriankremski/projects/SlidingMenu/SyncAdapterExampleProject/SyncAdapterExample/src/main/res/xml/authenticator.xml"
                 qualifiers=""
                 type="xml" />
             <file
-                name="game_row"
-                path="/Users/adriankremski/projects/SlidingMenu/SyncAdapterExampleProject/SyncAdapterExample/src/main/res/layout/game_row.xml"
+                name="syncadapter"
+                path="/Users/adriankremski/projects/SlidingMenu/SyncAdapterExampleProject/SyncAdapterExample/src/main/res/xml/syncadapter.xml"
                 qualifiers=""
-                type="layout" />
+                type="xml" />
         </source>
         <source path="/Users/adriankremski/projects/SlidingMenu/SyncAdapterExampleProject/SyncAdapterExample/build/res/rs/debug" />
     </dataSet>
